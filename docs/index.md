@@ -1,4 +1,4 @@
-# VIZZ8INFO
+# FSSE8INFO
 
 Built with Zensical [zensical.org](https://zensical.org/docs/).
 
