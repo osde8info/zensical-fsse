@@ -1,6 +1,6 @@
-# zensical-vizz
+# zensical-fsse
 
-zensical-vizz
+zensical-fsse
 
 ## Install
 
